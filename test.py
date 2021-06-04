@@ -14,7 +14,9 @@ for i in range(t):
 		else:
 			print(-1)
 
-
-print('hello, World')
+print('Hello, World')
 print('testing git commits')
 print('tesing new branch')
+print('testing rebase')
+print('hi')
+print('Hello')
